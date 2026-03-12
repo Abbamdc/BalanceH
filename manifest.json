@@ -1,4 +1,4 @@
-iconsname": "Balance Helper",
+{iconsname": "Balance Helper",
   "short_name": "Balance",
   "description": "Fuel Station Shift Balance Calculator",
   "start_url": "./index.html",
