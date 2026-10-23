@@ -3,7 +3,7 @@
 Live Demo: https://abbamdc.github.io/BalanceH/
 
 ## About
-BalanceH is a simple, fast web app I built to solve a real problem I faced as a Fuel Attendant at AA Rano Nig. Ltd, Nyanya Branch.
+BalanceH is a simple, fast web app I built to solve a real problem I faced as a Fuel Attendant.
 
 Manual calculation of daily sales, shortage/overage, and cash balance was slow and error-prone. This tool automates it.
 
